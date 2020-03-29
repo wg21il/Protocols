@@ -8,7 +8,7 @@ Agenda
 | Title                | Proposed by | Discussion Length | Issues                                         |
 |----------------------|-------------|-------------------|------------------------------------------------|
 | International Review | Ran         | 10 Minutes        | Each member updates about international issues |
-| Working with github  | Ran         | 10 Mnutes         | Workflow Pesentation. (somthing to start with) |
+| Working with github  | Ran         | 20 Mnutes         | Workflow Pesentation. (somthing to start with) |
 | ABI Break            | Yechezkel   | 60 Minutes        | A possible solution                            |
 | Meta Discussuion     | Dan         | 45 Minutes        | Discuss what should we discuss in NB Meetings  |
 |                      |             |                   |                                                |
