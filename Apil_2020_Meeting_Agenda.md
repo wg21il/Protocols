@@ -13,7 +13,7 @@ Agenda
 | Meta Discussuion     | Dan         | 45 Minutes        | Discuss what should we discuss in NB Meetings  |
 | Evolving C++ Remotely| Inbal Levi  | 20 Minutes        | Presenting the future plannes                  |
 |                      |             |                   |                                                |
-|                      |             | ~2.5 hours          |                                                |
+|                      |             | ~2.5 hours        |                                                |
 
 
 
