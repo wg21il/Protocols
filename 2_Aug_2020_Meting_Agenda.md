@@ -14,6 +14,6 @@
 
 * Notice: This meeting will focuse on continue working on the paper relates to changes suggestions for executors. Everyone are welcome. 
 
-* [Amir's doc naming](https://docs.google.com/document/d/1AXgg3-sMhYFNv0UJ95K1XQiNBbk9wQ16t6lY5YVidtQ/edit?usp=sharing).
-* [Amir's doc API](https://docs.google.com/document/d/1qL6PdH-O_T0KgqtKp6sQxqrGbD3DFs3w842jdQA6Qhg/edit?usp=sharing).
+* [Executors' naming issues (draft)](https://docs.google.com/document/d/1AXgg3-sMhYFNv0UJ95K1XQiNBbk9wQ16t6lY5YVidtQ/edit?usp=sharing).
+* [Executors' API issues (draft)](https://docs.google.com/document/d/1qL6PdH-O_T0KgqtKp6sQxqrGbD3DFs3w842jdQA6Qhg/edit?usp=sharing).
 * [Executors](wg21.link/p0443), take a look at _2.7 Appendix: Executors Bibilography_ for many more references.
