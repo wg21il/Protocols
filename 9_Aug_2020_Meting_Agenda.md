@@ -12,9 +12,9 @@
 ## Documents
 
 * Notice: 
-  * This meeting will focuse on continue working on the paper relates to changes suggestions for executors. Everyone are welcome. 
+  * This meeting will focuse on a paper suggests naming suggestions for executors. Everyone are welcome. 
   * **We're aiming to focuse on suggesting up to two names per section**. 
-  * Please make sure you go over the references before hand.
+  * **Please make sure you go over the references before hand**.
 
 * References:
   * connect: [https://wg21.link/P0443] section 2.2.3.5
