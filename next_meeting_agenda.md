@@ -37,7 +37,7 @@
 * Notice: 
   * This meeting focusase on continue working on naming changes suggestions for executors.
   * **We're aiming to focus on suggesting up to two names per section**. 
-  * **Please make sure you go over the references before hand**.
+  * **Please make sure you go over the references beforehand**.
 
 * References:
   * connect: [https://wg21.link/P0443] section 2.2.3.5
