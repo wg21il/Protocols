@@ -6,8 +6,18 @@
 # Agenda
 | Title     | Proposed by | Discussion Length | End Time | Issues                            |
 |-----------|-------------|-------------------|----------|-----------------------------------|
-| Executors | All         |  2h               | 22:00    | Continue discussion on Executors Naming - Change Suggestions |
-|           |             | ~2h               |          |                                   |
+| Executors | Amir  | 10 minutes     | 20:15    | just - alternate name (8)                                |
+|           | Amir  | 10 minutes     | 20:25    | let_error - alternate name (9.a)                         |
+|           | Amir  | 10 minutes     | 20:35    | let_value - alternate name (9.b)                         |
+|           | Ran   | 10 Minutes     | 20:45    | schedule understanding. <br/>align everyone on understanding the meaning of schedule. <br/> everyone are welcome to learn the topic before the meeting and share their insights |                                  |
+|           | Amir  | 15 Minutes     | 21:00    | schedule alternate name(s) (6.a, 6.b, 6.c)               |
+|           | Inbal | 10 Minutes     | 21:10    | Overall overview of the proposed changes                 |
+|           | Inbal | 5 Minutes each | 22:10    | agree on reasoning for each name changes                 |
+|           |       |                |          |                             |
+|           |       | ~2h            |          |                                                          |
++-----------+-------+----------------+----------+----------------------------------------------------------+
+
+* The numbers in the table refers to the numbers in [Executors' naming issues (draft)](https://docs.google.com/document/d/1AXgg3-sMhYFNv0UJ95K1XQiNBbk9wQ16t6lY5YVidtQ/edit?usp=sharing).
 
 ## Documents
 
