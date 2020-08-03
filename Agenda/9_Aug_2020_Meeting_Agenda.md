@@ -9,10 +9,10 @@
 | Executors| Amir  | 10 minutes     | 20:15    | just - alternate name (8)                                |
 |           | Amir  | 10 minutes     | 20:25    | let_error - alternate name (9.a)                         |
 |           | Amir  | 10 minutes     | 20:35    | let_value - alternate name (9.b)                         |
-|           | Ran   | 10 Minutes     | 20:45    | schedule API overview <br/> Everyone are welcome to learn the topic before the meeting and share their insights |                                  |
+|           | Ran   | 10 Minutes     | 20:45    | Schedule API overview <br/> Everyone are welcome to learn the topic before the meeting and share their insights |                                  |
 |           | Amir  | 15 Minutes     | 21:00    | schedule alternate name(s) (6.a, 6.b, 6.c)               |
 |           | Inbal | 10 Minutes     | 21:10    | Overall overview of the proposed changes                 |
-|           | Inbal | 5 Minutes each | 22:10    | agree on reasoning for each name changes                 |
+|           | Inbal | 5 Minutes each | 22:10    | Agree on reasoning for each name changes                 |
 |           |       |                |          |                             |
 |           |       | ~2h            |          |                                                          |
 
@@ -21,9 +21,9 @@
 ## Documents
 
 * Notice: 
-  * This meeting will focuse on a paper suggests naming suggestions for executors. Everyone are welcome. 
-  * **We're aiming to focuse on suggesting up to two names per section**. 
-  * **Please make sure you go over the references before hand**.
+  * This meeting will focus on a paper suggests naming suggestions for executors. Everyone are welcome. 
+  * **We're aiming to focus on suggesting up to two names per section**. 
+  * **Please make sure you go over the references beforehand**.
 
 * References:
   * connect: [https://wg21.link/P0443] section 2.2.3.5
