@@ -36,7 +36,7 @@
 
 * Notice: 
   * This meeting focusase on continue working on naming changes suggestions for executors.
-  * **We're aiming to focuse on suggesting up to two names per section**. 
+  * **We're aiming to focus on suggesting up to two names per section**. 
   * **Please make sure you go over the references before hand**.
 
 * References:
@@ -60,4 +60,3 @@
 
 ## Resources
 * https://www.tablesgenerator.com/text_tables
-
