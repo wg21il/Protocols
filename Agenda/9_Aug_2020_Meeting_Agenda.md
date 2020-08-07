@@ -4,6 +4,10 @@
 * Summary by: Amir Kirsh / Inbal
 
 # Agenda
+
+## Notice: This is a work meeting (for the purpose of working on executor's naming paper) and not an NB meeting. 
+
+
 | Title | Proposed by | Discussion Length | End Time | Issues                            |
 |-----------|-------------|-------------------|----------|-----------------------------------|
 | Executors| Amir  | 10 minutes     | 20:15    | just - alternate name (8)                                |
@@ -24,6 +28,7 @@
   * This meeting will focus on a paper suggests naming suggestions for executors. Everyone are welcome. 
   * **We're aiming to focus on suggesting up to two names per section**. 
   * **Please make sure you go over the references beforehand**.
+  * **Notice: This is a work meeting (for the purpose of working on executor's naming paper) and not an NB meeting. **
 
 * References:
   * connect: [https://wg21.link/P0443] section 2.2.3.5
