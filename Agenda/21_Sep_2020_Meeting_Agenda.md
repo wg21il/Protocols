@@ -1,4 +1,4 @@
-* Date: X/09/2020
+* Date: 21/09/2020
 * Time: 20:00-21:30
 * Coordinator: Inbal
 
