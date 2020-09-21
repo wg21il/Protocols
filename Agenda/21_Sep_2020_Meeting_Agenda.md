@@ -6,6 +6,7 @@
 
 | Title     | Discussion Length | End Time | Description                              |
 |-----------|-------------------|----------|------------------------------------------|
-| Ranges library | 50 minutes   | 20:10    | Dvir will introduce Ranges library current state |
+| Report from LEWG          | 30 minutes        | 21:30    | Discussion on "Executors Naming" |
+| Ranges library | 60 minutes   | 20:30    | Dvir will introduce Ranges library current state |
 |           | 30 minutes        | 21:30    | Open discussion |
-|           |                   | ~1.5h      |                                          |
+|           |                   | ~2h      |                                          |
