@@ -4,11 +4,11 @@
 
 # Agenda
 
-| Title | Proposed by | Discussion Length | Issues                            |
-|-----------|-------------|-------------------|----------|-----------------------------------|
+| Title | Proposed by | Discussion Length | Issues       |
+|----------|-------------|-------------|----------------|
 | Core Issues |   | 30 minutes    | Vote on: P2238R0 , P0330R8, P2096R2, P2029R4, P1787R6  |
-| Executors Naming |   | 60 minutes    | Discuss R1 Of executors naming   |
-|           |   | ~1.5h     |                                                          |
+| Executors Naming |   | 60 minutes   | Discuss R1 Of executors naming   |
+|           |   | ~1.5h     |          |
 
 ## Documents
 
