@@ -4,16 +4,16 @@
 
 # Agenda
 
-| Title | Proposed by | Discussion Length | End Time | Issues                            |
+| Title | Proposed by | Discussion Length | Issues                            |
 |-----------|-------------|-------------------|----------|-----------------------------------|
-| Core Issues |   | 30 minutes     |     | Vote on: P2238R0 , P0330R8, P2096R2, P2029R4, P1787R6  |
-| Executors Naming |   | 60 minutes     |     | Discuss R1 Of executors naming   |
-|           |       | ~1.5h            |          |                                                          |
+| Core Issues |   | 30 minutes    | Vote on: P2238R0 , P0330R8, P2096R2, P2029R4, P1787R6  |
+| Executors Naming |   | 60 minutes    | Discuss R1 Of executors naming   |
+|           |   | ~1.5h     |                                                          |
 
 ## Documents
 
 * Notice: 
-  * Please go over: [https://wg21.link/P2238R0](P2238R0), [https://wg21.link/P0330R8], [https://wg21.link/P2096R2], [https://wg21.link/P2029R4], [https://wg21.link/P1787R6]
+  * Please go over: [https://wg21.link/P2238R0], [https://wg21.link/P0330R8], [https://wg21.link/P2096R2], [https://wg21.link/P2029R4], [https://wg21.link/P1787R6]
   * The second part of the meeting will focus on a paper suggests naming suggestions for executors. Everyone are welcome. 
   * Review on github issue of the paper: https://github.com/cplusplus/papers/issues/914
   * Design document: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0761r2.pdf
