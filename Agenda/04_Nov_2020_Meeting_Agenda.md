@@ -13,12 +13,12 @@
 ## Documents
 
 * Notice: 
+  * The second part of the meeting will focus on a paper suggests naming suggestions for executors. Everyone are welcome.   
   * Please go over: [https://wg21.link/P2238R0], [https://wg21.link/P0330R8], [https://wg21.link/P2096R2], [https://wg21.link/P2029R4], [https://wg21.link/P1787R6]
-  * The second part of the meeting will focus on a paper suggests naming suggestions for executors. Everyone are welcome. 
   * Review on github issue of the paper: https://github.com/cplusplus/papers/issues/914
-  * Design document: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0761r2.pdf
+  * Executors Design document, contains reasoning for the facilities in 'Executors': http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0761r2.pdf
 
-* References:
+* References for facilites discussed in 'Executors Naming':
   * connect: [https://wg21.link/P0443] section 2.2.3.5
   * submit: [https://wg21.link/P0443] section 2.2.3.7
   * operation_state (concept): [https://wg21.link/P0443] section 2.2.5
