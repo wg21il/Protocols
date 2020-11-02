@@ -1,5 +1,5 @@
-* Date: XX/11/2020
-* Time: XX:00-XX:00
+* Date: 04/11/2020
+* Time: 20:00-22:00
 * Coordinator: Inbal
 
 # Agenda
