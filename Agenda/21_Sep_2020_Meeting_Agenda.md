@@ -10,3 +10,5 @@
 | Ranges library | 60 minutes   | 20:30    | Dvir will introduce Ranges library current state |
 |           | 30 minutes        | 21:30    | Open discussion |
 |           |                   | ~2h      |                                          |
+
+* Slides for Ranges library presentation (by Dvir): https://dvirtz.github.io/slides/ranges-status/ranges.html#/
