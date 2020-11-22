@@ -1,5 +1,5 @@
 * Date: 29/11/2020
-* Time: XX:00-XX:00
+* Time: 19:00-20:00
 * Coordinator: Inbal
 
 # Agenda
