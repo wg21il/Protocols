@@ -32,3 +32,40 @@
   
 * [Executors' naming issues (draft)](https://docs.google.com/document/d/1AXgg3-sMhYFNv0UJ95K1XQiNBbk9wQ16t6lY5YVidtQ/edit?usp=sharing).
 * [Executors](wg21.link/p0443), take a look at _2.7 Appendix: Executors Bibilography_ for many more references.
+
+
+# Meeting summary: 
+"Executors Naming" paper R1
+
+### Attendees:
+-  Inbal Levi
+-  Ran Regev
+-  Andrei Zissu
+-  Dan Raviv
+-  Amir Kirsh
+-  Dvir Yitachaki
+
+### Minutes:
+
+The name "async_operation" is misleading:
+
+| F | A |
+|-|-|
+| 1 | 5 |
+
+Conclusion: We'll add the name as an alternative proposed by the authors during the discussion, Andrei will add the rational for against (related to std::sync).
+The name "execution_connection" is a bad name:
+
+| F | A |
+|-|-|
+| 5 | 0 |
+
+Conclusion: We'll add the name as an alternative proposed by the authors. We'll also add our caveats (execution doesn't add anything since it's the namespace, connection doesn't add information, etc.)
+
+Andrei: set_done: will add the rational from libunfix. 
+
+Dvir: Will add the streams use case + current streams status, if possible.
+
+Amir: thread_pool::attach: will try to find the origin for the name, if possible.
+
+Inbal: Will reorganize sections in the paper, and edit set_done additional data.
