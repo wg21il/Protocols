@@ -28,3 +28,19 @@
 * [Executors' naming issues (draft)](https://docs.google.com/document/d/1z0FMCi1oW_xM-MbY75-xfJmgaNssumZgyg40jnwCHyo/edit).
 * Executors Design document, contains reasoning for the facilities in 'Executors': http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0761r2.pdf
 * [Executors](wg21.link/p0443), take a look at _2.7 Appendix: Executors Bibilography_ for many more references.
+
+# Meeting summary: 
+"Executors Naming" paper R1
+
+### Attendees:
+-  Inbal Levi
+-  Ran Regev
+-  Andrei Zissu
+-  Dan Raviv
+-  Amir Kirsh
+-  Dvir Yitachaki
+
+### Minutes:
+We've discussed some changes and fixes. We will consider if R1 is ready for the ML on next meeting. (13 Dec)
+
+<br/>
