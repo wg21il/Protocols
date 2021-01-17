@@ -5,7 +5,9 @@
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Metaprogramming & Reflection - examples & use cases |   | 60 minutes   |   |
+| Reflection Overview |   | 5 minutes   |   |
+| Decorators |   | 10 minutes   |   |
+| Metaprogramming & Reflection - examples & use cases |   | 50 minutes   |   |
 |           |   | 1h     |          |
 
 ## Relevant papers
