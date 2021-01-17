@@ -7,7 +7,7 @@
 |----------|-------------|-------------|----------------|
 | Reflection Overview |   | 5 minutes   |   |
 | Decorators |   | 10 minutes   |   |
-| Metaprogramming & Reflection - examples & use cases |   | 50 minutes   |   |
+| Metaprogramming & Reflection - examples & use cases |   | 45 minutes   |   |
 |           |   | 1h     |          |
 
 ## Relevant papers
