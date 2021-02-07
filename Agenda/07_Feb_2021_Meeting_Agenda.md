@@ -5,8 +5,10 @@
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Shachar Shemesh's proposals |   |    |   |
-| Text Encodings |   |    |   |
+| Reflection | Inbal |    |   |
+| std::hash for pair and tuple | Shachar Shemesh |    |   |
+| operator>> for const char | Shachar Shemesh |    |   |
+| Text Encodings | Inbal |    |   |
 |           |   | 1h     |          |
 
 ## Relevant papers
