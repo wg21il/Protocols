@@ -14,4 +14,4 @@
 * It is recommended to read the following papers before the meeting:
   * [P2320](https://wg21.link/p2320): The Syntax of Static Reflection (Andrew Sutton, Wyatt Childers, Daveed Vandevoorde) 
   * [P2237](https://wg21.link/p2237): Metaprogramming (Andrew Sutton) 
-  * [P1947](https://wg21.link/p1947): C++ – an Invisible Foundation of Everything (Bjarne Stroustrup) 
+  * [P2317](https://wg21.link/p2317): C++ – an Invisible Foundation of Everything (Bjarne Stroustrup) 
