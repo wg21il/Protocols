@@ -5,13 +5,12 @@
 
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Reflection & Metaprogramming |  P0712 Implementing	language	support	for	compile-time programming (topic by Dvir Yitzchaki) | 20 minutes   |   |
-| Reflection & Metaprogramming |  D's compile time execution, and some plans for Practical on that front (topic by Shachar Shemesh) | 20 minutes   |   |
-| TBD | | 20 minutes | |
-|           |   | ~1h     |          |
+| Reflection & Metaprogramming |  D's compile time execution, and some plans for Practical on that front (topic by Shachar Shemesh) | 30 minutes   |   |
+|           |   | ~30min     |          |
 
 ## Relevant papers
 
 * It is recommended to read the following papers before the meeting:
   * [P2320](https://wg21.link/p2320): The Syntax of Static Reflection (Andrew Sutton, Wyatt Childers, Daveed Vandevoorde) 
   * [P0712](https://wg21.link/p0712): Implementing	language	support	for	compile-time programming
+  
