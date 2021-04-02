@@ -1,12 +1,12 @@
 * Date: 04/04/2021
-* Time: 19:00-20:00 GMT +2
+* Time: 19:00-20:00 GMT +3
 
 # Agenda
 
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Reflection & Metaprogramming |  P0712 Implementing	language	support	for	compile-time programming (topic by Dvir Yitzchaki) | 30 minutes   |   |
-| TBD                         |                                                                                                |              |   |
+| Reflection & Metaprogramming |  P0712 Implementing	language	support	for	compile-time programming (topic by Dvir Yitzchaki) |    |   |
+|                         |                                                                                                |              |   |
 |                             |                                                                                                 | ~1H         |   |
 
 ## Relevant papers
