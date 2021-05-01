@@ -5,8 +5,8 @@
 
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-|    Reflection & Metaprogramming       |                                                  |            |   |
-|   TBD      |                                                  |            |   |
+|  Python C++ Implementation | Tamir will present his `C++ style` python library | 40 min |   |
+|  Reflection & Metaprogramming  |                                                | 20 min  |   |
 |                             |                                                                                                 | ~1H         |   |
 
 ## Relevant papers
