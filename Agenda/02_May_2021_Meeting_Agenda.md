@@ -5,7 +5,7 @@
 
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-|  Python C++ Implementation | Tamir will present his `C++ style` python library | 40 min |   |
+|  Cpppy: Python C++ Implementation | Tamir will present his `C++ style` python library | 40 min |   |
 |  Reflection & Metaprogramming  |                                                | 20 min  |   |
 |                             |                                                                                                 | ~1H         |   |
 
