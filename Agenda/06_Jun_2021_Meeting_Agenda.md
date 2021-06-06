@@ -3,10 +3,11 @@
 
 # Agenda
 
-| Title | Content | Discussion Length | Issues       |
+| Title | Content | Discussion Length | Comments       |
 |----------|-------------|-------------|----------------|
+| Call for speakers - CoreCpp | Inbal | 3 min | https://cfs.corecpp.org/ |
 | Monadic operations for std::optional | Andrey | 20 min |
-| Papers from the new ML |  | 40 min |   |
+| Papers from the new mailing list |  | 40 min |   |
 |                             |                                                                                                 | ~1H         |   |
 
 ## Relevant papers
