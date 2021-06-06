@@ -5,7 +5,8 @@
 
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Papers from the new ML |  | 60 min |   |
+| Monadic operations for std::optional | Andrey | 20 min |
+| Papers from the new ML |  | 40 min |   |
 |                             |                                                                                                 | ~1H         |   |
 
 ## Relevant papers
