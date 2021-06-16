@@ -7,7 +7,7 @@
 |----------|-------------|-------------|----------------|
 | Call for speakers - CoreCpp      | Inbal | 5 min  | https://cfs.corecpp.org/ |
 | Ranges Papers                    | Inbal | 10 min |                          |
-| Papers from the new mailing list |       | 40 min |   |
+| Papers from the new mailing list |       | 45 min |   |
 |                                  |              | ~1H         |   |
 
 ## Relevant Links
