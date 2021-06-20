@@ -7,7 +7,7 @@
 |----------|-------------|-------------|----------------|
 | Call for speakers - CoreCpp  | Inbal | 5 min  |       |
 | Ranges papers                | Inbal | 5 min  |       |
-| Reflection library usage     | Dvir  | 30 min |  https://github.com/dvirtz/meta  |
+| Reflection library usage     | Dvir  | 30 min |  https://github.com/lock3/meta/compare/p1240r1/compiler-explorer...dvirtz:attributes/p1240?expand=1  |
 | Open discussion              |       | 20 min |       |
 |                              |       | ~1H    |       |
 
