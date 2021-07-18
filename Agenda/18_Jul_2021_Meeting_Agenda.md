@@ -11,8 +11,7 @@
 |                                               |             | ~1H               |                |
 
 ## Relevant Links
-- https://cfs.corecpp.org/
 - [P2300R0](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2300r0.html): std::execution
 - [P2392R0](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2392r0.pdf): Pattern matching using “is” and “as”
-- [P1689R04(http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p1689r4.pdf): Format for describing dependencies of source files
+- [P1689R04](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p1689r4.pdf): Format for describing dependencies of source files
 
