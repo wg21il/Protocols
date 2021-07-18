@@ -3,15 +3,16 @@
 
 # Agenda
 
-| Title                                         | Content     | Discussion Length | Comments       |
-|-----------------------------------------------|-------------|-------------------|----------------|
-| P2300R0: std::execution                       |             | 20 min            |                |   
-| P2392R0: Pattern matching using “is” and “as” |             | 20 min            |                |
-| P1689R4: Format for describing dependencies of source files | 20 min            |                |     
-|                                               |             | ~1H               |                |
+| Title                                                        | Content         | Discussion Length | Comments       |
+|--------------------------------------------------------------|-----------------|-------------------|----------------|
+| P2392R0: Pattern matching using “is” and “as”                | Open discussion | 20 min            |                |
+| P1689R4: Conversions from ranges to containers               | Open discussion | 15 min            |                |
+| P1689R4: Format for describing dependencies of source files  | Open discussion | 15 min            |                |
+| P2300R0: std::execution                                      | Open discussion | (If time permits) |                |   
+|                                                              |                 | ~1H               |                |
 
 ## Relevant Links
-- [P2300R0](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2300r0.html): std::execution
 - [P2392R0](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2392r0.pdf): Pattern matching using “is” and “as”
-- [P1689R04](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p1689r4.pdf): Format for describing dependencies of source files
-
+- [D1206R5](https://isocpp.org/files/papers/D1206R5.pdf): Conversions from ranges to containers
+- [P1689R4](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p1689r4.pdf): Format for describing dependencies of source files
+- [P2300R0](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2300r0.html): std::execution
