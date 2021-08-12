@@ -7,3 +7,6 @@
 |----------|-------------|-------------|----------------|
 | Papers from July ML | Open discussion | 1H |   |
 |                             |                                                                                                 | ~1H         |   |
+
+## Relevant Links
+* [July ML](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/#mailing2021-07)
