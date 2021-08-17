@@ -6,7 +6,7 @@
 | Title                                                        | Content         | Discussion Length | Comments       |
 |--------------------------------------------------------------|-----------------|-------------------|----------------|
 | P2392R0: Pattern matching using “is” and “as”                | Open discussion | 20 min            |                |
-| P1689R4: Conversions from ranges to containers               | Open discussion | 15 min            |                |
+| D1206R5: Conversions from ranges to containers               | Open discussion | 15 min            |                |
 | P1689R4: Format for describing dependencies of source files  | Open discussion | 15 min            |                |
 | P2300R0: std::execution                                      | Open discussion | (If time permits) |                |   
 |                                                              |                 | ~1H               |                |
