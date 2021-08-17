@@ -14,5 +14,5 @@
 ## Relevant Links
 - [P2392R0](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2392r0.pdf): Pattern matching using “is” and “as”
 - [D1206R5](https://isocpp.org/files/papers/D1206R5.pdf): Conversions from ranges to containers
-- [P1689R4](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p1689r4.pdf): Format for describing dependencies of source files
+- [P1689R4](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p1689r4.html): Format for describing dependencies of source files
 - [P2300R0](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2300r0.html): std::execution
