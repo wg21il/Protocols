@@ -6,8 +6,9 @@
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | P2406R1: Fix `counted_iterator` interaction with input iterators | Discussion by Yehezkel | 20 Min |   |
-| P2347R1: Argument type deduction for non-trailing parameter packs | Discussion by Andrei | 20 Min |   |
-| P1169R2: static operator()            | Discussion by Andrei | 20 Min |   |
+| P2347R1: Argument type deduction for non-trailing parameter packs | Discussion by Andrei | 15 Min |   |
+| P1169R2: static operator()            | Discussion by Andrei | 15 Min |   |
+| Resuming face to face meetings  | Discussion by Dan | 10 Min |   |
 |                             |             | ~1H         |   |
 
 ## Relevant Links
