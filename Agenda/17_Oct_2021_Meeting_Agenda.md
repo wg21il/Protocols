@@ -6,7 +6,6 @@
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | P2406R1: Fix `counted_iterator` interaction with input iterators | Discussion by Yehezkel | 20 Min |   |
-| Resuming face to face meetings  | Discussion by Dan | 10 Min |   |
 |                             |             | ~1H         |   |
 
 ## Relevant Links
