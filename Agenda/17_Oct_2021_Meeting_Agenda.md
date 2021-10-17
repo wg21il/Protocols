@@ -5,9 +5,9 @@
 
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| P2406R1: Fix `counted_iterator` interaction with input iterators | Discussion by Yehezkel | 15 Min |   |
+| P2406R1: Fix `counted_iterator` interaction with input iterators | Discussion by Yehezkel | 20 Min |   |
 | P2012R1: Fix the range-based for loop | Discussion by Dan | 30 Min | |
-| P1169R2: static operator()            | Discussion by Andrei | 15 Min |   |
+| P1169R2: static operator()            | Discussion by Andrei | 10 Min |   |
 |                             |             | ~1H         |   |
 
 ## Relevant Links
