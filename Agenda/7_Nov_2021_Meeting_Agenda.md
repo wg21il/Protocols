@@ -5,7 +5,7 @@
 
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Tech Town 2021 | Discussion by Tamir | 10 Min |   |
+| NDC Tech Town 2021 | Discussion by Tamir | 10 Min |   |
 | P2406R1: Fix `counted_iterator` interaction with input iterators | Discussion by Yehezkel | 5 Min |   |
 | P2012R1: Fix the range-based for loop | Discussion by Dan | 35 Min | |
 | P2441R0: <code>views::join_with</code> | Discussion by Inbal | 10 Min | |
