@@ -7,7 +7,7 @@
 |----------|-------------|-------------|----------------|
 | NDC Tech Town 2021 | Discussion by Tamir | 10 Min |   |
 | P2012R1: Fix the range-based for loop | Discussion by Dan | 35 Min | |
-| P2441R0: <code>views::join_with</code> | Discussion by Inbal | 10 Min | |
+| P2441R0: <code>views::join_with</code> | Discussion by Inbal | 15 Min | |
 |                             |             | ~1H         |   |
 
 ## Relevant Links
