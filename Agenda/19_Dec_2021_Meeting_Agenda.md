@@ -5,9 +5,7 @@
 
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| D2288R0: Proposal of Designated Arguments | Discussion by Andrei | 45 Min | |
-| P2322R5: ranges::fold | Discussion by Dvir | 10 Min | |
-| Updates on library evolution features | Discussion by Inbal | 5 Min | |
+| D2288R0: Proposal of Designated Arguments | Discussion by Andrei | 60 Min | |
 |                             |             | ~1H         |   |
 
 ## Relevant Links
