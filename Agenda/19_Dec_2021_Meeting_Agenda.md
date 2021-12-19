@@ -11,3 +11,4 @@
 ## Relevant Links
 * [P2322R5](https://isocpp.org/files/papers/P2232R5.html): ranges::fold
 * [D2288R0](https://docs.google.com/document/d/14sQA95BVz8F7y-tqXxqXiRENvEusn8MzZgoBXMu4UbI/edit#): Proposal of Designated Arguments
+* [Slides](https://docs.google.com/presentation/d/1owx2aq4YhuUNhcm98BDSanJftvm5x6MnnBV4PlMqdAY/edit?usp=sharing) D2288R0: C++ Designated Arguments
