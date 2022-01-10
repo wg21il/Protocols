@@ -13,5 +13,5 @@
 ## Relevant papers
 
 * It is recommended to read the following papers before the meeting:
-  * [P473R1](https://wg21.link/p2473): std::generator: Synchronous Coroutine Generator for Ranges (Daniel  Ruoso) 
+  * [P473R1](https://wg21.link/p2473): Distributing  C++  Module  Libraries (Daniel  Ruoso) 
   * [P2502R0](https://wg21.link/p2502): std::generator: Synchronous Coroutine Generator for Ranges (Casey Carter) 
