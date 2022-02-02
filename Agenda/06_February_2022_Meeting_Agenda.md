@@ -5,7 +5,7 @@
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| D2532R0: Removing exception_ptr from the Receiver Concepts (results of requested investigations for P2300)| Inbal Levi | 15 min |
+| Removing exception_ptr from the Receiver Concepts (results of requested investigations for P2300)| Inbal Levi | 15 min |
 | Basic lambdas for C | Inbal Levi | 15 min | |
 | Open Discussion |   | 30 minutes   |   |
 |           |   | 1h     |          |
@@ -13,6 +13,6 @@
 ## Relevant papers
 
 * It is recommended to read the following papers before the meeting:
-  * [D2532R0](https://github.com/wg21il/Protocols/blob/master/Agenda/D2532R0_%20Removing%20exception_ptr%20from%20the%20Receiver%20Concepts.pdf): Removing exception_ptr from the Receiver Concepts
+  * [D2532R0](https://github.com/wg21il/Protocols/blob/master/Agenda/D2532R0_%20Removing%20exception_ptr%20from%20the%20Receiver%20Concepts.pdf): Removing exception_ptr from the Receiver Concepts (Eric Niebler)
   * [P2303R4](https://wg21.link/p2303): Basic lambdas for C (Jens Gustedt) 
   * [P2521R0](https://wg21.link/p2521): Contract support -- Working Paper (various authors)
