@@ -14,6 +14,7 @@
 
 * It is recommended to read the following papers before the meeting:
   * [D2532R0](https://github.com/wg21il/Protocols/blob/master/Agenda/D2532R0_%20Removing%20exception_ptr%20from%20the%20Receiver%20Concepts.pdf): Removing exception_ptr from the Receiver Concepts (Eric Niebler)
+  * [P2300R4](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2300r4.html):	std::execution (various authors)
   * [P2424R0](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2424r0.html): Abbreviated Parameters (Mihail Naydenov)
   * [P2303R4](https://wg21.link/p2303): Basic lambdas for C (Jens Gustedt) 
   * [P2521R0](https://wg21.link/p2521): Contract support -- Working Paper (various authors)
