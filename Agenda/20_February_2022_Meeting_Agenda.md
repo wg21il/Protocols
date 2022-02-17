@@ -5,7 +5,7 @@
 
 | Title           | Proposed by | Discussion Length | Comments  |
 |-----------------|-----------------|-------------|-------------|
-| Priorities for C++26 | Inbal Levi  | 20 min     |  Kickoff of C++26 topics   |
+| Expercations for C++26 | Inbal Levi  | 20 min     |  C++26 Kickoff, topics and priorities |
 |                      |             |            |             |
 |                      |             | 1h         |             |
 
