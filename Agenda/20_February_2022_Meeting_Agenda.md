@@ -1,0 +1,16 @@
+* Date: 20/02/2022
+* Time: 19:00-20:00
+
+# Agenda
+
+| Title           | Proposed by | Discussion Length | Comments  |
+|-----------------|-----------------|-------------|-------------|
+| Priorities for C++26 | Inbal Levi  | 20 min     |  Kickoff of C++26 topics   |
+|                      |             |            |             |
+|                      |             | 1h         |             |
+
+## Relevant papers
+
+* It is recommended to read the following papers before the meeting:
+  * [P2300R4](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2300r4.html):	std::execution (various authors)
+  * [P2521R0](https://wg21.link/p2521): Contract support -- Working Paper (various authors)
