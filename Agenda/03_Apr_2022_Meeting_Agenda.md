@@ -5,7 +5,7 @@
 
 | Title           | Proposed by | Discussion Length | Comments  |
 |-----------------|-----------------|-------------|-------------|
-| The process of WG21 convernership | Inbal Levi  | 5 min |  |
+| The technical process of WG21 convernership | Inbal Levi  | 5 min |  |
 | MDSPAN | Inbal Levi  | 40 min |  |
 |                      |             | 1h         |             |
 
