@@ -5,8 +5,9 @@
 
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| A Standard flat_map |   | 20 min   |   |
-| A Standard flat_set |   | 20 min   |   |
+| A Standard flat_map |   | 15 min   |   |
+| A Standard flat_set |   | 15 min   |   |
+| Flat Containers     | Andrei  | 30 min   |   |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
@@ -17,3 +18,6 @@
   * [P1222R3](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1222r3.pdf): A Standard flat_set (Zach Laine)
   * [P1222R0](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1222r0.pdf): A Standard flat_set (Zach Laine)
   * [P0038R0](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/p0038r0.html): Flat Containers (Sean Middleditch)
+  * [Boost flat_map](https://www.boost.org/doc/libs/1_65_1/doc/html/boost/container/flat_map.html)
+  * [Boost flat_set](https://www.boost.org/doc/libs/1_64_0/doc/html/boost/container/flat_set.html)
+
