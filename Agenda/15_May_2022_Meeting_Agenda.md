@@ -5,8 +5,9 @@
 
 | Title | Content | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| = delete("should have a reason"); | Inbal Levi  | 40 min   |   |
-| Open discussion |   | 20 min   |   |
+| Update on C++ conferences CFS | Inbal Levi |  5 min  |               |
+| = delete("should have a reason"); | Inbal Levi  | 30 min   |   |
+| Open discussion |   | 25 min   |   |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
