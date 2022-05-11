@@ -3,11 +3,11 @@
 
 # Agenda
 
-| Title | Content | Discussion Length | Issues       |
+| Title | Proposed By | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| A Standard flat_map |   | 15 min   |   |
-| A Standard flat_set |   | 15 min   |   |
-| Flat Containers     | Andrei  | 30 min   |   |
+| A Standard flat_map | Inbal Levi  | 15 min   |   |
+| A Standard flat_set | Inbal Levi  | 15 min   |   |
+| Flat Containers     | Andrei Zissu | 30 min   |   |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
