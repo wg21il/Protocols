@@ -5,9 +5,7 @@
 
 | Title | Proposed By | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Explicit lifetime management | Andrei Zissu | 15 min   |   |
-| Tuple protocol for C-style arrays T[N] | Andrei Zissu | 20 min   |   |
-| std::forward_like | Inbal Levi | 25 min   |   |
+| Explicit lifetime management | Andrei Zissu | 50 min   |   |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
