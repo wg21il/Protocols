@@ -6,9 +6,10 @@
 | Title | Proposed By | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | Reflection Experimental | Inbal Levi | 5 min | |
-| Tuple protocol for C-style arrays T[N] | Andrei Zissu | 20 min   |   |
-| Allow multiple init-statements | Andrei Zissu | 20 min   |   |
-|  Poison Pills are Too Toxic  | Inbal Levi | 20 min   |   |
+| Tuple protocol for C-style arrays T[N] | Andrei Zissu | 15 min   |   |
+| Allow multiple init-statements | Andrei Zissu | 15 min   |   |
+|  Poison Pills are Too Toxic  | Inbal Levi | 10 min   |   |
+|  C++23 Standard Final Updates | Inbal Levi | 15 min   |   |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
