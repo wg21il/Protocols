@@ -13,5 +13,6 @@
 ## Relevant papers
 
 * It is recommended to read the following papers before the meeting:
+  * [P2320](https://www.youtube.com/watch?v=Y1o4rc9P1FQ): The Syntax of Static Reflection
   * [Static Reflection Usage Report](https://docs.google.com/document/d/1BwJy071WERGQedn8oMa11xnP15XM5l6nKxNS2jABx6Q/edit?usp=sharing)
   * [CppCon2019](https://www.youtube.com/watch?v=Y1o4rc9P1FQ): How to Implement Your First Compiler Feature: The Story of Concepts in Clang (Saar Raz)
