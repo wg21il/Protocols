@@ -1,17 +1,19 @@
 * Date: 06/11/2022
-* Time: 20:00-21:00 GMT +2
+* Time: 19:30-20:30 GMT +2
 
 # Agenda
 
 | Title | Proposed By | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| C++23 NB comments | Inbal Levi | 40 min   |   |
-| Reflection updates (Tentative) | All | 20 min   |   |
+| C++23 NB comments | Inbal Levi | 30 min   |   |
+| [US#523: US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments](https://github.com/cplusplus/nbballot/issues/523) | Yehezkel | 30 min   |   |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
 
 * It is recommended to go over the following sources before the meeting:
+  * [P2406: Fix `counted_iterator` interaction with input iterators(https://wg21.link/P2406)
+  *  [US#523: US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments](https://github.com/cplusplus/nbballot/issues/523) 
   * [Static Reflection Usage Report](https://docs.google.com/document/d/1BwJy071WERGQedn8oMa11xnP15XM5l6nKxNS2jABx6Q/edit?usp=sharing)
   * [CppCon2019](https://www.youtube.com/watch?v=Y1o4rc9P1FQ): How to Implement Your First Compiler Feature: The Story of Concepts in Clang (Saar Raz)
   * [Cpp2 Link](https://godbolt.org/z/aEG7e5W7j) (Compiler Explorer)
