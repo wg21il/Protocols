@@ -1,0 +1,19 @@
+* Date: 04/12/2022
+* Time: 19:00-20:00 GMT +2
+
+# Agenda
+
+| Title | Proposed By | Discussion Length | Issues       |
+|----------|-------------|-------------|----------------|
+| [P2406](https://isocpp.org/files/papers/D2406R1.html): Fix `counted_iterator` interaction with input iterators | Yehezkel Bernat | 40 min   |   |
+| [P2578](https://isocpp.org/files/papers/D2578R0.html): Block eager input (non-forward) iterators from `counted_iterator` | Yehezkel Bernat | 20 min   |   |
+|                     |   | ~1H      |   |
+
+## Relevant papers
+
+* It is recommended to go over the following sources before the meeting:
+  * [D2406R1](https://isocpp.org/files/papers/D2406R1.html): Fix `counted_iterator` interaction with input iterators
+  * [D2578R0](https://isocpp.org/files/papers/D2578R0.html): Block eager input (non-forward) iterators from counted_iterator
+  * [US#523](https://github.com/cplusplus/nbballot/issues/523) : US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments
+  * [Static Reflection Usage Report](https://docs.google.com/document/d/1BwJy071WERGQedn8oMa11xnP15XM5l6nKxNS2jABx6Q/edit?usp=sharing)
+
