@@ -5,8 +5,9 @@
 
 | Title | Proposed By | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
+| Reflection update | Inbal Levi | 5 min | |
 | [P2406](https://isocpp.org/files/papers/D2406R1.html): Fix `counted_iterator` interaction with input iterators | Yehezkel Bernat | 40 min   |   |
-| [P2578](https://isocpp.org/files/papers/D2578R0.html): Block eager input (non-forward) iterators from `counted_iterator` | Yehezkel Bernat | 20 min   |   |
+| [P2578](https://isocpp.org/files/papers/D2578R0.html): Block eager input (non-forward) iterators from `counted_iterator` | Yehezkel Bernat | 15 min   |   |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
