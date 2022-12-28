@@ -6,7 +6,7 @@
 | Title | Proposed By | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | C++23 NB comments | Inbal Levi | 30 min   |   |
-| [US#523](https://github.com/cplusplus/nbballot/issues/523): US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments] | Yehezkel | 30 min   |   |
+| [US#523](https://github.com/cplusplus/nbballot/issues/523): US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments] | Yehezkel Bernat | 30 min   |   |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
