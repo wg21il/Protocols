@@ -6,9 +6,9 @@
 | Title | Proposed By | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | Reflection updates, next steps | Inbal Levi | 10 min | |
-| Safety / Contracts papers | Andrei Zissu | 20 min | |
-| [P2406](https://isocpp.org/files/papers/D2406R1.html): Fix `counted_iterator` interaction with input iterators | Yehezkel Bernat | 30 min   |   |
-|                     |   | ~1H      |   |
+| [P2406](https://isocpp.org/files/papers/D2406R1.html): Fix `counted_iterator` interaction with input iterators | Yehezkel Bernat | 40 min   |   |
+| Safety / Contracts papers | Andrei Zissu | 40 min | |
+|                     |   | ~1.5H      |   |
 
 ## Relevant papers
 
