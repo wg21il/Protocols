@@ -6,7 +6,8 @@
 | Title | Proposed By | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | Reflection Workgroup Update | Inbal Levi | 5 min |      |
-| WG21 Feb Mailing List Open Discussion |  | 55 min  |       |
+| PXXXXR0: Opting out of zero-initialization of automatic objects should be hard | Ran Regev | 30 min | |
+| WG21 Feb Mailing List Open Discussion |  | 25 min  |       |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
