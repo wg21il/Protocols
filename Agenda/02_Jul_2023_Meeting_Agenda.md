@@ -6,8 +6,9 @@
 | Title | Proposed By | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | Reflection updates, next steps | Inbal Levi | 5 min | |
-| Contracts papers review | Andrei Zissue, Ran Regev | 30 min   |   |
-| Allowing contracts for obfuscated binaries | Andrei Zissu, Ran Regev | 25 min | |
+| Varna trip report | Open discussion | 15 min   |   |
+| Contracts papers review | Andrei Zissue, Ran Regev | 20 min   |   |
+| Allowing contracts for obfuscated binaries | Andrei Zissu, Ran Regev | 20 min | |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
