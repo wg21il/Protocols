@@ -7,7 +7,7 @@
 |----------|-------------|-------------|----------------|
 | Reflection updates, next steps | Inbal Levi | 5 min | |
 | Varna trip report | Open discussion | 15 min   |   |
-| Contracts papers review | Andrei Zissue, Ran Regev | 20 min   |   |
+| Contracts papers review | Andrei Zissu, Ran Regev | 20 min   |   |
 | Allowing contracts for obfuscated binaries | Andrei Zissu, Ran Regev | 20 min | |
 |                     |   | ~1H      |   |
 
