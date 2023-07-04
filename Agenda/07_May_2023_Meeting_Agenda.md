@@ -7,7 +7,7 @@
 |----------|-------------|-------------|----------------|
 | Reflection Workgroup Update | Inbal Levi | 5 min |      |
 | Contracts Violation | Andrei Zissu | 20 min  |
-| Open discussion |  |   |
+| Open discussion |  | 35 min  |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
