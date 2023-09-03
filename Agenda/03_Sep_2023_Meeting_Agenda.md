@@ -1,12 +1,12 @@
 * Date: 03/09/2023
-* Time: 19:00-20:00 GMT +2
+* Time: 09:00-10:00 GMT +3
 
 # Agenda
 
 | Title | Proposed By | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | Linux-Kernel Memory Model | Inbal Levi | 20 min   |   |
-| TBD |  | 40 min   |   |
+| Contracts Papers | Andrei | 40 min   |   |
 |                     |   | ~1H      |   |
 
 ## Relevant papers
