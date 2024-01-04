@@ -6,7 +6,7 @@
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | contracts terminology |  Andrei Zissu | 30 minutes   |   |
-| Open Discussion |   | 30 minutes   |   |
+| `noexcept` and contract checks | Ran Regev  | 30 minutes   |   |
 |           |   | 1h     |          |
 
 ## Relevant papers
