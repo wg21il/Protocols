@@ -15,6 +15,7 @@
    * noexcept
 
 ## Relevant papers
+   * [P2267R1](https://wg21.link/P2267R1): Library Evolution Policies
    * [P2946R1](https://wg21.link/P2946R1): A flexible solution to the problems of `noexcept`
    * [P2831R0](https://wg21.link/P2831R0): Functions having a narrow contract should not be noexcept
    * [P2858R0](https://wg21.link/P2858R0): Noexcept vs contract violations
