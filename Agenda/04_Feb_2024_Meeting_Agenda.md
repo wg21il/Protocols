@@ -20,3 +20,4 @@
    * [P2831R0](https://wg21.link/P2831R0): Functions having a narrow contract should not be noexcept
    * [P2858R0](https://wg21.link/P2858R0): Noexcept vs contract violations
    * [P2861R0](https://wg21.link/P2861R0): The Lakos Rule: Narrow Contracts And `noexcept` Are Inherently Incompatible
+   * [P2791R0](https://wg21.link/P2791R0): mandate concepts for new features
