@@ -1,4 +1,4 @@
-* Date: 05/05/2024
+* Date: 19/05/2024
 * Time: 18:00-19:00
 
 # Agenda
@@ -8,6 +8,7 @@
 | Papers reviewed | Inbal Levi |   |
 |           |   | 1h     |          |
 
+* Constexpr function params
 * Topics from Tokyo 2024 meeting
 * New papers
 
