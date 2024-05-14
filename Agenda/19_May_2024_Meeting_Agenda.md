@@ -5,13 +5,16 @@
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Papers reviewed | Inbal Levi |   |
-|           |   | 1h     |          |
+| Contracts TS| Ran Regev | 1h | P3265R0 |
 
-* Constexpr function params
-* Topics from Tokyo 2024 meeting
-* New papers
+For Contracts TS relevant papers and dicussions
+
+Ran: My personal goal for this meeting is that our NB will have an opinion on the subject.
+I support Ville, but if the group thinks otherwise, or I will change my mind - it is ok.
 
 
 ## Relevant papers and links
-   * [2024 Tokyo Trip Report](https://www.reddit.com/r/cpp/comments/1bloatw/202403_tokyo_iso_c_committee_trip_report_third/)
+* [P3265R0](https://isocpp.org/files/papers/P3265R0.html)
+* [Reflector discussion on P3265](http://lists.isocpp.org/sg21/2024/05/8771.php)
+* [John Spicer call for papers](http://lists.isocpp.org/sg21/2024/05/8776.php)
+* [SD-4 TS](https://isocpp.org/std/standing-documents/sd-4-wg21-practices-and-procedures#technical-specifications)
