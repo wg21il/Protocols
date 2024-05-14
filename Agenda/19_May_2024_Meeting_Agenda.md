@@ -1,17 +1,20 @@
 * Date: 19/05/2024
-* Time: 18:00-19:00
+* Time: 19:00-20:00
 
 # Agenda
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Papers reviewed | Inbal Levi |   |
+| Feedback on Contracts TS| Open discussion | 40 min  |
+| Constexpr function params | Andrei Zissu | 20 min |
 |           |   | 1h     |          |
 
+* Contracts TS
 * Constexpr function params
-* Topics from Tokyo 2024 meeting
-* New papers
 
 
 ## Relevant papers and links
+   * [P3265R0](https://isocpp.org/files/papers/P3265R0.html): Ship Contracts in a TS (Ville Voutilainen)
+   * [SD-4 TS](https://isocpp.org/std/standing-documents/sd-4-wg21-practices-and-procedures#technical-specifications)
+   * [Reflector discussion on P3265](http://lists.isocpp.org/sg21/2024/05/8771.php)
    * [2024 Tokyo Trip Report](https://www.reddit.com/r/cpp/comments/1bloatw/202403_tokyo_iso_c_committee_trip_report_third/)
