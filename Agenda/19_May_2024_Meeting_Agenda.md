@@ -14,7 +14,7 @@
 
 
 ## Relevant papers and links
-   * [P3265R0](https://isocpp.org/files/papers/P3265R0.html): Ship Contracts in a TS (Ville Voutilainen)
+   * [P3265R1](https://isocpp.org/files/papers/P3265R1.html): Ship Contracts in a TS (Ville Voutilainen)
    * [SD-4 TS](https://isocpp.org/std/standing-documents/sd-4-wg21-practices-and-procedures#technical-specifications)
    * [Reflector discussion on P3265](http://lists.isocpp.org/sg21/2024/05/8771.php)
    * [2024 Tokyo Trip Report](https://www.reddit.com/r/cpp/comments/1bloatw/202403_tokyo_iso_c_committee_trip_report_third/)
