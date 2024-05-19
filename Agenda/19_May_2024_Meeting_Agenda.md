@@ -6,7 +6,7 @@
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | Feedback on Contracts TS| Open discussion | 30 min  |
-| Constexpr function params | Andrei Zissu | 30 min |
+| Constexpr function params | Tal Yacobi | 30 min |
 |           |   | 1h     |          |
 
 * Contracts TS
