@@ -5,7 +5,8 @@
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Constexpr function params | Tal Yacobi, Coral Kashri | 60 min |
+| Constexpr function params | Tal Yacobi, Coral Kashri | 45 min |
+| Amount of functions in reflection | Andrei Zissue | 15 min |
 |           |   | 1h     |          |
 
 
