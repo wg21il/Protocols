@@ -14,5 +14,5 @@
   * Reflection
 
 ## Relevant papers and links
-   * [P3237R1](https://wg21.link/P3237R1): Matrix Representation of Contract Semantics
+   * [D3237R2](https://wg21.link/D3237R2): Matrix Representation of Contract Semantics
    * [P3334R0](https://wg21.link/P3334R0): Cross Static Variables
