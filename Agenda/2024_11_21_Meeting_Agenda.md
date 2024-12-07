@@ -6,14 +6,13 @@
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | Updates on Reflection | Inbal Levi | 5 min |
-| Updates on LEWG progress | Inbal Levi | 10 min |
+| Updates on LEWG progress for C++26 | Inbal Levi | 10 min |
 | Updates on "Cross Static Variables" | Coral/Andrei | 20 min |
 | Updates on "Contracts" progress | Andrei, Ran | 10 min |
 | Discussion on "Contracts" status | All | 15 min |
 |           |   | 1h     |          |
 
-* Updates on C++26
-  * Reflection
+
 
 ## Relevant papers and links
    * [P3334R0](https://wg21.link/P3334R0): Cross Static Variables
