@@ -1,5 +1,5 @@
 * Date: 27/06/2024
-* Time: 20:00-21:00 UTC-3  (12:00 PM St. Louis time (UTC-5)
+* Time: 20:00-21:00 UTC+3  (12:00 PM St. Louis time (UTC-5)
 
 # Agenda
 
