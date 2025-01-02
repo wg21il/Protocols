@@ -5,9 +5,9 @@
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Clerifications on slack / WG21 | Inbal |  5 min |
+| Clerifications on slack / WG21 | Inbal |  10 min |
 | C++ Concurrent Queues | Inbal | 30 min |
-| C++26 updates | open discussion | 25 min |
+| C++26 updates | open discussion | 20 min |
 |           |   | 1h     |          |
 
 
