@@ -5,10 +5,10 @@
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Clerifications on NB rules | Danit/Inbal |  20 min |
-| constexpr func params / std::constant_wrapper | Andrei / Coral | 20 min |
-| Reflection, C++ concurrent Queues - updates | Inbal | 20 min |
-|           |   | 1h     |          |
+| Discussion NB rules | Ran |  30 min | Joining Israel NB |
+| constexpr func params / std::constant_wrapper | Andrei / Coral | 30 min | |
+| Reflection, C++ concurrent Queues - updates | Inbal | 20 min | |
+|           |   | 1h 20 Min     |          |
 
 
 ## Relevant papers and links
