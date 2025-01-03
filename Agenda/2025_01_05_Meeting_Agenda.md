@@ -5,7 +5,7 @@
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Clerifications on NB rules | Danit/Inbal/Ran |  20 min |
+| Clerifications on NB rules | Danit/Inbal |  20 min |
 | constexpr func params / std::constant_wrapper | Andrei / Coral | 20 min |
 | Reflection, C++ concurrent Queues - updates | Inbal | 20 min |
 |           |   | 1h     |          |
