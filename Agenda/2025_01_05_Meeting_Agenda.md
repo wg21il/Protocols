@@ -16,4 +16,6 @@
    * [P2781R5](https://wg21.link/P2781R5): std::constant_wrapper
    * [P0260R11](https://wg21.link/P0260R13): C++ Concurrent Queues
    * [P2996R8](https://wg21.link/P2996R8): Reflection for C++26
+   * [P3547R0](https://wg21.link/P3547R0): Modeling Access Control With Reection (no public link yet, will be avaliable post Jan mailing)
+
 
