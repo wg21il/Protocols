@@ -12,7 +12,7 @@
 
 ## Relevant papers and links
    * [P3740R1](https://wg21.link/P3740R1): Last chance to fix std::nontype (Jan Schultke)
-   * [P3753R1](https://wg21.link/P3753R1):Slides for P3740R1 - Last chance to fix std::nontype (Jan Schultke, Bronek Kozicki)
+   * [P3753R1](https://wg21.link/P3753R1): Slides for P3740R1 - Last chance to fix std::nontype (Jan Schultke, Bronek Kozicki)
    * [P3774R0](https://wg21.link/P3774R0): Rename std::nontype, and make it broadly useful (Jan Schultke, Bronek Kozicki, Tomasz Kamiński)
    * [P3380R1](https://wg21.link/P3380R1): Extending support for class types as non-type template parameters (Successor of [P2484R0](https://wg21.link/P2484R0))
    * [P3603R0](https://wg21.link/P3603R0): Consteval-only Values and Consteval Variables
