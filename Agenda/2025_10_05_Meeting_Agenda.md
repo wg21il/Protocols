@@ -5,7 +5,7 @@
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Library implementation divergance, reflection-based type traits | Andrei, Coral | 30 min |
+| Library implementation divergance, reflection-based type traits | Andrei | 30 min |
 | New papers (Sep/Aug mailing) | All | 30 min |
 |           |   | 1h     |          |
 
