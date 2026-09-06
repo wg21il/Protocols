@@ -5,8 +5,8 @@
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Standard library versioning (and ABI breaks) | Yehezkel / Inbal | 40 min |
-| Noexcept policy (time permits) | Inbal | 20 min |
+| Noexcept policy | Inbal | 40 min |
+| Standard library versioning (and ABI breaks) (time permits) | Yehezkel / Inbal | 20 min |
 |           |   | 1h     |          |
 
 
