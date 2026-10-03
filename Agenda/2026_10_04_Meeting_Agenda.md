@@ -6,8 +6,7 @@
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | Standard library versioning (and ABI breaks) (overflow from prev meeting) | Inbal Levi | 30 min |
-| Rio meeting (papers & other topics) | all | 40 min |
-| Structured Binding Assignments (time permits) | Yehonatan / Ran | 20 min |
+| Structured Binding Assignments (time permits) | Yehonatan / Ran | 30 min |
 |           |   | 1h     |          |
 
 
