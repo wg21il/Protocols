@@ -6,7 +6,7 @@
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
 | Structured Binding Assignments | Yehonatan / Ran | 40 min |
-| Standard library versioning (and ABI breaks) (postponed due to lack of time) | Inbal Levi | 20 min |
+| Standard library versioning (and ABI breaks) (postponed due to overflow) | Inbal Levi | 20 min |
 |           |   | 1h     |          |
 
 
