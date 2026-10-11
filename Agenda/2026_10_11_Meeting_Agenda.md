@@ -1,12 +1,12 @@
 * Date: 11/10/2026
-* Time: 19:00-20:00 UTC+3
+* Time: 20:00-21:00 UTC+3
 
 # Agenda
 
 | Title | Proposed by | Discussion Length | Issues       |
 |----------|-------------|-------------|----------------|
-| Structured Binding Assignments | Yehonatan / Ran | 30 min |
-| Standard library versioning (and ABI breaks) | Inbal Levi | 30 min |
+| Structured Binding Assignments | Yehonatan / Ran | 40 min |
+| Standard library versioning (and ABI breaks) | Inbal Levi | 20 min |
 |           |   | 1h     |          |
 
 
